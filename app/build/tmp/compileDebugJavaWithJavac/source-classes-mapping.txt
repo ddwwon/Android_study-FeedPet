@@ -1,0 +1,27 @@
+org/techtown/pet_info/ui/notifications/NotificationsViewModel.java
+ org.techtown.pet_info.ui.notifications.NotificationsViewModel
+org/techtown/pet_info/ui/notifications/NotificationsFragment.java
+ org.techtown.pet_info.ui.notifications.NotificationsFragment
+ org.techtown.pet_info.ui.notifications.NotificationsFragment$1
+org/techtown/pet_info/ui/dashboard/DashboardFragment.java
+ org.techtown.pet_info.ui.dashboard.DashboardFragment
+ org.techtown.pet_info.ui.dashboard.DashboardFragment$1
+org/techtown/pet_info/ui/dashboard/DashboardViewModel.java
+ org.techtown.pet_info.ui.dashboard.DashboardViewModel
+org/techtown/pet_info/ui/home/HomeViewModel.java
+ org.techtown.pet_info.ui.home.HomeViewModel
+org/techtown/pet_info/BuildConfig.java
+ org.techtown.pet_info.BuildConfig
+org/techtown/pet_info/MainActivity.java
+ org.techtown.pet_info.MainActivity
+org/techtown/pet_info/databinding/FragmentHomeBinding.java
+ org.techtown.pet_info.databinding.FragmentHomeBinding
+org/techtown/pet_info/databinding/ActivityMainBinding.java
+ org.techtown.pet_info.databinding.ActivityMainBinding
+org/techtown/pet_info/databinding/FragmentDashboardBinding.java
+ org.techtown.pet_info.databinding.FragmentDashboardBinding
+org/techtown/pet_info/ui/home/HomeFragment.java
+ org.techtown.pet_info.ui.home.HomeFragment
+ org.techtown.pet_info.ui.home.HomeFragment$1
+org/techtown/pet_info/databinding/FragmentNotificationsBinding.java
+ org.techtown.pet_info.databinding.FragmentNotificationsBinding
